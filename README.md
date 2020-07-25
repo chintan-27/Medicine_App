@@ -16,3 +16,8 @@ https://github.com/chintan-27/DummyDataForMedicineApp
 # Future Features:
 1. )  Search option according to name or company or type 
 2. ) Classification menu according to same
+3. ) Placing the order.
+4. ) Saving the medicine a liked or favorite
+5. ) Show cart, add to cart.
+7. ) Login, Sign Up of user
+6. ) Profile of the user
